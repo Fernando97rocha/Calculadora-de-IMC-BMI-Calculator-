@@ -2,3 +2,7 @@
 Meu primeiro projeto pessoal "finalizado" utilizando Javascript puro/ HTML e CSS.
 
 Ainda em processo de melhoria
+
+
+image.png
+
