@@ -51,13 +51,28 @@ h1{
 }
 
 button{
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 35px;
+    
+}
+
+.button-format{
+    background-color:rgb(75, 136, 136);
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    text-transform: uppercase;
+    text-shadow: 1px 1px black;
+    border: solid 2px white;
+    border-radius: 20px;
+    height: 45px;
     width: 150px;
 }
 
+.button-format:hover{
+    background-color: darkslategray;
+    transition: 0.7s;
+}
 
 .central-items{
     width: 100%;

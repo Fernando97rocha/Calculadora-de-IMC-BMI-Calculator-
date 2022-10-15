@@ -34,7 +34,7 @@ const mostraCalculo = () => {
     } else;
     
     const resultMessage = `<section class="resultado">Seu IMC é ${valor} <br> ${frase}</section>
-        <input type="button" value="Voltar" onclick="history.go(0)"></input>`
+        <input type="button" value="Voltar" class="button-format" onclick="history.go(0)"></input>`
     
     mainContainer.innerHTML = resultMessage
     
